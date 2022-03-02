@@ -1,1 +1,2 @@
-This is more about shell
+#!/bin/bash
+This repo contains scripts for commands
