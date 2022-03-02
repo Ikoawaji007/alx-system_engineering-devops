@@ -1,1 +1,1 @@
-This is more about shell
+This repo contains scripts for commands
